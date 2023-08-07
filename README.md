@@ -1,4 +1,4 @@
-# task-management-demo
+# Task management application
 
 ## Project setup
 ```
